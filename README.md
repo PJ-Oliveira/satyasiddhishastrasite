@@ -99,6 +99,11 @@ npm run build
 ## 🔄 CI/CD Pipeline
 This project is configured with GitHub Actions. Any push or pull request merge to the `main` branch automatically triggers the `.github/workflows/deploy.yml` pipeline. It performs type-checking, rigorous testing with coverage, builds the artifact, and automatically deploys to **GitHub Pages**.
 
+## 🙏 Acknowledgements
+
+This work was only made possible through the inspiring lectures and years of profound study with my Teacher of *Abhidharma* and *Vipassana* (discernment) concerning Harivarman's *Satyasiddhiśāstra* (*Chengshilun*), **Sensei Joaquim Monteiro**. My deepest gratitude for his patience, wisdom, and the faithful transmission of the Dharma.
+
+
 ## 📜 License
 *Treatise on the Realization of Truth* (Satyasiddhiśāstra).
 Translations and interactive platform.

@@ -99,6 +99,11 @@ npm run build
 ## 🔄 Pipeline de CI/CD
 Este projeto está configurado com o GitHub Actions. Qualquer `push` ou mesclagem de pull request para a branch `main` aciona automaticamente a esteira configurada em `.github/workflows/deploy.yml`. Ela realiza checagem de tipos, testes rigorosos com relatório de cobertura, compila o artefato (build) e realiza a implantação automatizada para o **GitHub Pages**.
 
+## 🙏 Agradecimentos
+
+Este trabalho só foi possível graças às aulas inspiradoras e aos anos de estudo aprofundado com meu Professor de *Abhidharma* e *Vipassana* (discernimento) acerca do *Satyasiddhiśāstra* (*Chengshilun*) de Harivarman, o **Sensei Joaquim Monteiro**. Toda a minha profunda gratidão pela paciência, sabedoria e transmissão fidedigna do Dharma.
+
+
 ## 📜 Licença
 *Tratado da Realização da Verdade* (Satyasiddhiśāstra).
 Traduções e plataforma interativa.
