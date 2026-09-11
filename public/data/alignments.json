@@ -1,0 +1,1024 @@
+{
+  "答曰": {
+    "en": [
+      "In reply"
+    ],
+    "pt": [
+      "Em resposta",
+      "Resposta:"
+    ]
+  },
+  "問曰": {
+    "en": [
+      "Question:"
+    ],
+    "pt": [
+      "Pergunta:"
+    ]
+  },
+  "涅槃": {
+    "en": [
+      "nirvāṇa",
+      "Nirvāṇa",
+      "nirvana"
+    ],
+    "pt": [
+      "nirvāṇa",
+      "Nirvāṇa"
+    ]
+  },
+  "菩薩": {
+    "en": [
+      "bodhisattva",
+      "Bodhisattva"
+    ],
+    "pt": [
+      "bodhisattva",
+      "Bodhisattva"
+    ]
+  },
+  "比丘": {
+    "en": [
+      "bhikṣu",
+      "Bhikṣu",
+      "monk"
+    ],
+    "pt": [
+      "bhikṣu",
+      "Bhikṣu",
+      "monge"
+    ]
+  },
+  "般若": {
+    "en": [
+      "prajñā",
+      "Prajñā"
+    ],
+    "pt": [
+      "prajñā",
+      "Prajñā"
+    ]
+  },
+  "三昧": {
+    "en": [
+      "samādhi",
+      "Samādhi"
+    ],
+    "pt": [
+      "samādhi",
+      "Samādhi"
+    ]
+  },
+  "禪定": {
+    "en": [
+      "dhyāna",
+      "Dhyāna",
+      "meditation"
+    ],
+    "pt": [
+      "dhyāna",
+      "Dhyāna",
+      "meditação"
+    ]
+  },
+  "煩惱": {
+    "en": [
+      "affliction",
+      "kleśa",
+      "defilement"
+    ],
+    "pt": [
+      "aflição",
+      "kleśa",
+      "impureza"
+    ]
+  },
+  "無明": {
+    "en": [
+      "ignorance",
+      "avidyā"
+    ],
+    "pt": [
+      "ignorância",
+      "avidyā"
+    ]
+  },
+  "無我": {
+    "en": [
+      "non-self",
+      "anātman"
+    ],
+    "pt": [
+      "não-eu",
+      "anātman"
+    ]
+  },
+  "無常": {
+    "en": [
+      "impermanence",
+      "impermanent",
+      "anitya"
+    ],
+    "pt": [
+      "impermanência",
+      "impermanente",
+      "anitya"
+    ]
+  },
+  "解脫": {
+    "en": [
+      "liberation",
+      "vimukti"
+    ],
+    "pt": [
+      "liberação",
+      "vimukti"
+    ]
+  },
+  "因緣": {
+    "en": [
+      "cause and condition",
+      "causes and conditions",
+      "hetupratyaya",
+      "dependent origination"
+    ],
+    "pt": [
+      "causa e condição",
+      "causas e condições",
+      "hetupratyaya"
+    ]
+  },
+  "眾生": {
+    "en": [
+      "sentient being",
+      "sentient beings",
+      "living being",
+      "living beings",
+      "sattva"
+    ],
+    "pt": [
+      "ser senciente",
+      "seres sencientes",
+      "sattva"
+    ]
+  },
+  "五陰": {
+    "en": [
+      "five aggregates",
+      "five skandha",
+      "pañca-skandha"
+    ],
+    "pt": [
+      "cinco agregados",
+      "pañca-skandha"
+    ]
+  },
+  "色": {
+    "en": [
+      "form",
+      "rūpa",
+      "material form"
+    ],
+    "pt": [
+      "forma",
+      "rūpa",
+      "forma material"
+    ]
+  },
+  "受": {
+    "en": [
+      "feeling",
+      "vedanā",
+      "sensation"
+    ],
+    "pt": [
+      "sensação",
+      "vedanā",
+      "sentimento"
+    ]
+  },
+  "想": {
+    "en": [
+      "perception",
+      "saṃjñā"
+    ],
+    "pt": [
+      "percepção",
+      "saṃjñā"
+    ]
+  },
+  "行": {
+    "en": [
+      "formations",
+      "saṃskāra",
+      "volitional formations",
+      "mental formations"
+    ],
+    "pt": [
+      "formações",
+      "saṃskāra",
+      "formações volitivas"
+    ]
+  },
+  "識": {
+    "en": [
+      "consciousness",
+      "vijñāna"
+    ],
+    "pt": [
+      "consciência",
+      "vijñāna"
+    ]
+  },
+  "四諦": {
+    "en": [
+      "four noble truths",
+      "four truths",
+      "catvāry-ārya-satyāni"
+    ],
+    "pt": [
+      "quatro nobres verdades",
+      "quatro verdades"
+    ]
+  },
+  "苦": {
+    "en": [
+      "suffering",
+      "duḥkha"
+    ],
+    "pt": [
+      "sofrimento",
+      "duḥkha"
+    ]
+  },
+  "集": {
+    "en": [
+      "arising",
+      "origination",
+      "samudaya"
+    ],
+    "pt": [
+      "originação",
+      "surgimento",
+      "samudaya"
+    ]
+  },
+  "滅": {
+    "en": [
+      "cessation",
+      "nirodha"
+    ],
+    "pt": [
+      "cessação",
+      "nirodha"
+    ]
+  },
+  "道": {
+    "en": [
+      "the path",
+      "the way",
+      "mārga"
+    ],
+    "pt": [
+      "o caminho",
+      "a via",
+      "mārga"
+    ]
+  },
+  "正見": {
+    "en": [
+      "right view",
+      "samyag-dṛṣṭi"
+    ],
+    "pt": [
+      "visão correta",
+      "samyag-dṛṣṭi"
+    ]
+  },
+  "正思": {
+    "en": [
+      "right intention",
+      "right thought",
+      "samyak-saṃkalpa"
+    ],
+    "pt": [
+      "intenção correta",
+      "pensamento correto"
+    ]
+  },
+  "正語": {
+    "en": [
+      "right speech",
+      "samyag-vāc"
+    ],
+    "pt": [
+      "fala correta",
+      "samyag-vāc"
+    ]
+  },
+  "正業": {
+    "en": [
+      "right action",
+      "samyak-karmānta"
+    ],
+    "pt": [
+      "ação correta",
+      "samyak-karmānta"
+    ]
+  },
+  "正命": {
+    "en": [
+      "right livelihood",
+      "samyag-ājīva"
+    ],
+    "pt": [
+      "modo de vida correto",
+      "samyag-ājīva"
+    ]
+  },
+  "正精": {
+    "en": [
+      "right effort",
+      "samyag-vyāyāma"
+    ],
+    "pt": [
+      "esforço correto",
+      "samyag-vyāyāma"
+    ]
+  },
+  "正念": {
+    "en": [
+      "right mindfulness",
+      "samyak-smṛti"
+    ],
+    "pt": [
+      "atenção plena correta",
+      "samyak-smṛti"
+    ]
+  },
+  "正定": {
+    "en": [
+      "right concentration",
+      "samyak-samādhi"
+    ],
+    "pt": [
+      "concentração correta",
+      "samyak-samādhi"
+    ]
+  },
+  "世間": {
+    "en": [
+      "the world",
+      "mundane",
+      "worldly",
+      "loka"
+    ],
+    "pt": [
+      "o mundo",
+      "mundano",
+      "loka"
+    ]
+  },
+  "三界": {
+    "en": [
+      "three realms",
+      "traidhātuka"
+    ],
+    "pt": [
+      "três reinos",
+      "traidhātuka"
+    ]
+  },
+  "欲界": {
+    "en": [
+      "desire realm",
+      "kāma-dhātu"
+    ],
+    "pt": [
+      "reino do desejo",
+      "kāma-dhātu"
+    ]
+  },
+  "色界": {
+    "en": [
+      "form realm",
+      "rūpa-dhātu"
+    ],
+    "pt": [
+      "reino da forma",
+      "rūpa-dhātu"
+    ]
+  },
+  "地獄": {
+    "en": [
+      "hell",
+      "naraka"
+    ],
+    "pt": [
+      "inferno",
+      "naraka"
+    ]
+  },
+  "餓鬼": {
+    "en": [
+      "hungry ghost",
+      "preta"
+    ],
+    "pt": [
+      "fantasma faminto",
+      "preta"
+    ]
+  },
+  "畜生": {
+    "en": [
+      "animal realm",
+      "animal",
+      "tiryak"
+    ],
+    "pt": [
+      "reino animal",
+      "tiryak"
+    ]
+  },
+  "天": {
+    "en": [
+      "heaven",
+      "heavenly",
+      "deva",
+      "celestial"
+    ],
+    "pt": [
+      "céu",
+      "celestial",
+      "deva"
+    ]
+  },
+  "業": {
+    "en": [
+      "karma",
+      "action"
+    ],
+    "pt": [
+      "karma",
+      "ação"
+    ]
+  },
+  "法": {
+    "en": [
+      "dharma",
+      "Dharma"
+    ],
+    "pt": [
+      "dharma",
+      "Dharma"
+    ]
+  },
+  "空": {
+    "en": [
+      "emptiness",
+      "empty",
+      "śūnyatā"
+    ],
+    "pt": [
+      "vacuidade",
+      "vazio",
+      "śūnyatā"
+    ]
+  },
+  "佛": {
+    "en": [
+      "Buddha",
+      "the Buddha"
+    ],
+    "pt": [
+      "Buda",
+      "o Buda"
+    ]
+  },
+  "僧": {
+    "en": [
+      "saṅgha",
+      "Saṅgha",
+      "community"
+    ],
+    "pt": [
+      "saṅgha",
+      "Saṅgha",
+      "comunidade"
+    ]
+  },
+  "戒": {
+    "en": [
+      "precept",
+      "moral discipline",
+      "śīla"
+    ],
+    "pt": [
+      "preceito",
+      "disciplina moral",
+      "śīla"
+    ]
+  },
+  "定": {
+    "en": [
+      "concentration",
+      "samādhi"
+    ],
+    "pt": [
+      "concentração",
+      "samādhi"
+    ]
+  },
+  "慧": {
+    "en": [
+      "wisdom",
+      "prajñā"
+    ],
+    "pt": [
+      "sabedoria",
+      "prajñā"
+    ]
+  },
+  "施": {
+    "en": [
+      "giving",
+      "generosity",
+      "dāna"
+    ],
+    "pt": [
+      "doação",
+      "generosidade",
+      "dāna"
+    ]
+  },
+  "忍": {
+    "en": [
+      "patience",
+      "forbearance",
+      "kṣānti"
+    ],
+    "pt": [
+      "paciência",
+      "tolerância",
+      "kṣānti"
+    ]
+  },
+  "進": {
+    "en": [
+      "diligence",
+      "effort",
+      "vīrya"
+    ],
+    "pt": [
+      "diligência",
+      "esforço",
+      "vīrya"
+    ]
+  },
+  "貪": {
+    "en": [
+      "greed",
+      "desire",
+      "rāga"
+    ],
+    "pt": [
+      "cobiça",
+      "desejo",
+      "rāga"
+    ]
+  },
+  "瞋": {
+    "en": [
+      "anger",
+      "hatred",
+      "dveṣa",
+      "aversion"
+    ],
+    "pt": [
+      "raiva",
+      "ódio",
+      "dveṣa",
+      "aversão"
+    ]
+  },
+  "癡": {
+    "en": [
+      "delusion",
+      "moha"
+    ],
+    "pt": [
+      "ilusão",
+      "moha"
+    ]
+  },
+  "慢": {
+    "en": [
+      "pride",
+      "arrogance",
+      "māna"
+    ],
+    "pt": [
+      "orgulho",
+      "arrogância",
+      "māna"
+    ]
+  },
+  "疑": {
+    "en": [
+      "doubt",
+      "vicikitsā"
+    ],
+    "pt": [
+      "dúvida",
+      "vicikitsā"
+    ]
+  },
+  "邪見": {
+    "en": [
+      "wrong view",
+      "mithyā-dṛṣṭi"
+    ],
+    "pt": [
+      "visão errônea",
+      "mithyā-dṛṣṭi"
+    ]
+  },
+  "身見": {
+    "en": [
+      "self-view",
+      "satkāya-dṛṣṭi"
+    ],
+    "pt": [
+      "visão do eu",
+      "satkāya-dṛṣṭi"
+    ]
+  },
+  "有為": {
+    "en": [
+      "conditioned",
+      "saṃskṛta"
+    ],
+    "pt": [
+      "condicionado",
+      "saṃskṛta"
+    ]
+  },
+  "無為": {
+    "en": [
+      "unconditioned",
+      "asaṃskṛta"
+    ],
+    "pt": [
+      "incondicionado",
+      "asaṃskṛta"
+    ]
+  },
+  "有漏": {
+    "en": [
+      "with outflows",
+      "sāsrava"
+    ],
+    "pt": [
+      "com contaminações",
+      "sāsrava"
+    ]
+  },
+  "無漏": {
+    "en": [
+      "without outflows",
+      "anāsrava"
+    ],
+    "pt": [
+      "sem contaminações",
+      "anāsrava"
+    ]
+  },
+  "老死": {
+    "en": [
+      "old age and death",
+      "aging and death",
+      "jarāmaraṇa"
+    ],
+    "pt": [
+      "velhice e morte",
+      "jarāmaraṇa"
+    ]
+  },
+  "生死": {
+    "en": [
+      "birth and death",
+      "saṃsāra"
+    ],
+    "pt": [
+      "nascimento e morte",
+      "saṃsāra"
+    ]
+  },
+  "六入": {
+    "en": [
+      "six sense-bases",
+      "ṣaḍ-āyatana",
+      "six āyatana"
+    ],
+    "pt": [
+      "seis bases sensoriais",
+      "ṣaḍ-āyatana"
+    ]
+  },
+  "布施": {
+    "en": [
+      "giving",
+      "generosity",
+      "dāna"
+    ],
+    "pt": [
+      "doação",
+      "generosidade",
+      "dāna"
+    ]
+  },
+  "持戒": {
+    "en": [
+      "keeping precepts",
+      "śīla"
+    ],
+    "pt": [
+      "observar preceitos",
+      "śīla"
+    ]
+  },
+  "精進": {
+    "en": [
+      "diligent effort",
+      "diligence",
+      "vīrya"
+    ],
+    "pt": [
+      "esforço diligente",
+      "vīrya"
+    ]
+  },
+  "智慧": {
+    "en": [
+      "wisdom",
+      "prajñā"
+    ],
+    "pt": [
+      "sabedoria",
+      "prajñā"
+    ]
+  },
+  "功德": {
+    "en": [
+      "merit",
+      "virtue",
+      "puṇya"
+    ],
+    "pt": [
+      "mérito",
+      "virtude",
+      "puṇya"
+    ]
+  },
+  "菩提": {
+    "en": [
+      "bodhi",
+      "awakening",
+      "enlightenment"
+    ],
+    "pt": [
+      "bodhi",
+      "despertar",
+      "iluminação"
+    ]
+  },
+  "如是": {
+    "en": [
+      "thus",
+      "in this way"
+    ],
+    "pt": [
+      "assim",
+      "desta forma"
+    ]
+  },
+  "是故": {
+    "en": [
+      "therefore",
+      "hence"
+    ],
+    "pt": [
+      "portanto",
+      "logo"
+    ]
+  },
+  "復次": {
+    "en": [
+      "furthermore",
+      "moreover"
+    ],
+    "pt": [
+      "ademais",
+      "além disso"
+    ]
+  },
+  "云何": {
+    "en": [
+      "how",
+      "why",
+      "in what way"
+    ],
+    "pt": [
+      "como",
+      "por quê",
+      "de que modo"
+    ]
+  },
+  "何故": {
+    "en": [
+      "why",
+      "for what reason"
+    ],
+    "pt": [
+      "por quê",
+      "por qual razão"
+    ]
+  },
+  "所以": {
+    "en": [
+      "the reason",
+      "therefore"
+    ],
+    "pt": [
+      "a razão",
+      "portanto"
+    ]
+  },
+  "一切": {
+    "en": [
+      "all",
+      "everything"
+    ],
+    "pt": [
+      "tudo",
+      "todos",
+      "todas"
+    ]
+  },
+  "分別": {
+    "en": [
+      "discrimination",
+      "distinction",
+      "vikalpa"
+    ],
+    "pt": [
+      "discriminação",
+      "distinção",
+      "vikalpa"
+    ]
+  },
+  "假名": {
+    "en": [
+      "conventional designation",
+      "prajñapti"
+    ],
+    "pt": [
+      "designação convencional",
+      "prajñapti"
+    ]
+  },
+  "阿羅漢": {
+    "en": [
+      "arhat",
+      "Arhat"
+    ],
+    "pt": [
+      "arhat",
+      "Arhat"
+    ]
+  },
+  "沙門": {
+    "en": [
+      "śramaṇa",
+      "ascetic"
+    ],
+    "pt": [
+      "śramaṇa",
+      "asceta"
+    ]
+  },
+  "眼": {
+    "en": [
+      "eye",
+      "visual"
+    ],
+    "pt": [
+      "olho",
+      "visual"
+    ]
+  },
+  "耳": {
+    "en": [
+      "ear",
+      "auditory"
+    ],
+    "pt": [
+      "ouvido",
+      "orelha",
+      "auditivo"
+    ]
+  },
+  "鼻": {
+    "en": [
+      "nose",
+      "olfactory"
+    ],
+    "pt": [
+      "nariz",
+      "olfativo"
+    ]
+  },
+  "舌": {
+    "en": [
+      "tongue",
+      "gustatory"
+    ],
+    "pt": [
+      "língua",
+      "gustativo"
+    ]
+  },
+  "身": {
+    "en": [
+      "body",
+      "kāya"
+    ],
+    "pt": [
+      "corpo",
+      "kāya"
+    ]
+  },
+  "意": {
+    "en": [
+      "mind",
+      "mental",
+      "manas"
+    ],
+    "pt": [
+      "mente",
+      "mental",
+      "manas"
+    ]
+  },
+  "地": {
+    "en": [
+      "earth",
+      "pṛthivī"
+    ],
+    "pt": [
+      "terra",
+      "pṛthivī"
+    ]
+  },
+  "水": {
+    "en": [
+      "water",
+      "āp"
+    ],
+    "pt": [
+      "água",
+      "āp"
+    ]
+  },
+  "火": {
+    "en": [
+      "fire",
+      "tejas"
+    ],
+    "pt": [
+      "fogo",
+      "tejas"
+    ]
+  },
+  "風": {
+    "en": [
+      "wind",
+      "vāyu"
+    ],
+    "pt": [
+      "vento",
+      "vāyu"
+    ]
+  },
+  "四大": {
+    "en": [
+      "four great elements",
+      "four elements",
+      "mahābhūta"
+    ],
+    "pt": [
+      "quatro grandes elementos",
+      "quatro elementos"
+    ]
+  }
+}

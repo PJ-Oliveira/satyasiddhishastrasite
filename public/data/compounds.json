@@ -1,0 +1,442 @@
+{
+  "答曰": {
+    "en": "\"In reply:\" (response marker)",
+    "pt": "\"Em resposta:\" (marcador de resposta)"
+  },
+  "問曰": {
+    "en": "\"Question:\" (question marker)",
+    "pt": "\"Pergunta:\" (marcador de pergunta)"
+  },
+  "如是": {
+    "en": "thus, in this way (evam)",
+    "pt": "assim, desta forma (evam)"
+  },
+  "一切": {
+    "en": "all, everything (sarva)",
+    "pt": "tudo, todos (sarva)"
+  },
+  "因緣": {
+    "en": "cause and condition (hetupratyaya)",
+    "pt": "causa e condição (hetupratyaya)"
+  },
+  "眾生": {
+    "en": "sentient beings (sattva)",
+    "pt": "seres sencientes (sattva)"
+  },
+  "煩惱": {
+    "en": "affliction, defilement (kleśa)",
+    "pt": "aflição, impureza (kleśa)"
+  },
+  "解脫": {
+    "en": "liberation, freedom (vimukti)",
+    "pt": "liberação, liberdade (vimukti)"
+  },
+  "無明": {
+    "en": "avidyā, fundamental ignorance",
+    "pt": "avidyā, ignorância fundamental"
+  },
+  "無我": {
+    "en": "non-self (anātman)",
+    "pt": "não-eu (anātman)"
+  },
+  "無常": {
+    "en": "impermanence (anitya)",
+    "pt": "impermanência (anitya)"
+  },
+  "涅槃": {
+    "en": "nirvāṇa, final liberation",
+    "pt": "nirvāṇa, liberação final"
+  },
+  "菩薩": {
+    "en": "bodhisattva",
+    "pt": "bodhisattva"
+  },
+  "世間": {
+    "en": "the world, mundane (loka)",
+    "pt": "o mundo, mundano (loka)"
+  },
+  "分別": {
+    "en": "discrimination (vikalpa)",
+    "pt": "discriminação (vikalpa)"
+  },
+  "五陰": {
+    "en": "five aggregates (pañca-skandha)",
+    "pt": "cinco agregados (pañca-skandha)"
+  },
+  "假名": {
+    "en": "conventional designation (prajñapti)",
+    "pt": "designação convencional (prajñapti)"
+  },
+  "正見": {
+    "en": "right view (samyag-dṛṣṭi)",
+    "pt": "visão correta (samyag-dṛṣṭi)"
+  },
+  "正定": {
+    "en": "right concentration (samyak-samādhi)",
+    "pt": "concentração correta (samyak-samādhi)"
+  },
+  "正念": {
+    "en": "right mindfulness (samyak-smṛti)",
+    "pt": "atenção plena correta (samyak-smṛti)"
+  },
+  "比丘": {
+    "en": "bhikṣu, monk",
+    "pt": "bhikṣu, monge"
+  },
+  "阿羅": {
+    "en": "arhat (prefix)",
+    "pt": "arhat (prefixo)"
+  },
+  "出世": {
+    "en": "transcendent (lokottara)",
+    "pt": "transcendente (lokottara)"
+  },
+  "云何": {
+    "en": "how? why? (katham)",
+    "pt": "como? por quê? (katham)"
+  },
+  "何故": {
+    "en": "why? for what reason?",
+    "pt": "por quê? por qual razão?"
+  },
+  "所以": {
+    "en": "the reason is... (therefore)",
+    "pt": "a razão é... (portanto)"
+  },
+  "是故": {
+    "en": "therefore, hence (tasmāt)",
+    "pt": "portanto, logo (tasmāt)"
+  },
+  "名為": {
+    "en": "is called, is named",
+    "pt": "é chamado, é denominado"
+  },
+  "故知": {
+    "en": "therefore we know that...",
+    "pt": "portanto sabemos que..."
+  },
+  "故名": {
+    "en": "therefore it is called...",
+    "pt": "portanto é chamado de..."
+  },
+  "不善": {
+    "en": "unwholesome (akuśala)",
+    "pt": "não-virtuoso (akuśala)"
+  },
+  "不能": {
+    "en": "cannot, unable to",
+    "pt": "não pode, incapaz de"
+  },
+  "不可": {
+    "en": "cannot, should not",
+    "pt": "não pode, não deve"
+  },
+  "不然": {
+    "en": "not so, incorrect",
+    "pt": "não é assim, incorreto"
+  },
+  "不應": {
+    "en": "should not, ought not",
+    "pt": "não deveria"
+  },
+  "行者": {
+    "en": "practitioner (yogin)",
+    "pt": "praticante (yogin)"
+  },
+  "是名": {
+    "en": "this is called...",
+    "pt": "isto é chamado de..."
+  },
+  "色等": {
+    "en": "form and others (rūpādi)",
+    "pt": "forma e outros (rūpādi)"
+  },
+  "汝言": {
+    "en": "you say, your statement",
+    "pt": "você diz, sua afirmação"
+  },
+  "是人": {
+    "en": "this person, such a person",
+    "pt": "esta pessoa, tal pessoa"
+  },
+  "是事": {
+    "en": "this matter, this thing",
+    "pt": "este assunto, esta coisa"
+  },
+  "則不": {
+    "en": "then... not, would not",
+    "pt": "então... não, não seria"
+  },
+  "故說": {
+    "en": "therefore it is said...",
+    "pt": "portanto é dito..."
+  },
+  "若人": {
+    "en": "if a person...",
+    "pt": "se uma pessoa..."
+  },
+  "無有": {
+    "en": "there is no, non-existent",
+    "pt": "não há, inexistente"
+  },
+  "有人": {
+    "en": "there is someone, some say",
+    "pt": "há alguém, alguns dizem"
+  },
+  "則無": {
+    "en": "then there is no...",
+    "pt": "então não há..."
+  },
+  "亦不": {
+    "en": "also does not, neither",
+    "pt": "também não, tampouco"
+  },
+  "如經": {
+    "en": "as the sūtra (states)",
+    "pt": "como o sūtra (afirma)"
+  },
+  "經中": {
+    "en": "in the sūtra",
+    "pt": "no sūtra"
+  },
+  "中說": {
+    "en": "(sūtra) states, says",
+    "pt": "(sūtra) afirma, diz"
+  },
+  "又若": {
+    "en": "moreover if...",
+    "pt": "além disso, se..."
+  },
+  "復次": {
+    "en": "furthermore, moreover",
+    "pt": "ademais, além disso"
+  },
+  "四諦": {
+    "en": "four noble truths (catvāry-ārya-satyāni)",
+    "pt": "quatro nobres verdades"
+  },
+  "十二": {
+    "en": "twelve (dvādaśa)",
+    "pt": "doze (dvādaśa)"
+  },
+  "三界": {
+    "en": "three realms (traidhātuka)",
+    "pt": "três reinos (traidhātuka)"
+  },
+  "六入": {
+    "en": "six sense-bases (ṣaḍ-āyatana)",
+    "pt": "seis bases sensoriais"
+  },
+  "十八": {
+    "en": "eighteen (aṣṭādaśa)",
+    "pt": "dezoito (aṣṭādaśa)"
+  },
+  "正語": {
+    "en": "right speech (samyag-vāc)",
+    "pt": "fala correta (samyag-vāc)"
+  },
+  "功德": {
+    "en": "merit, virtue (puṇya-guṇa)",
+    "pt": "mérito, virtude (puṇya-guṇa)"
+  },
+  "持戒": {
+    "en": "śīla, moral discipline",
+    "pt": "śīla, disciplina moral"
+  },
+  "精進": {
+    "en": "vīrya, diligent effort",
+    "pt": "vīrya, esforço diligente"
+  },
+  "三昧": {
+    "en": "samādhi, meditative absorption",
+    "pt": "samādhi, absorção meditativa"
+  },
+  "四大": {
+    "en": "four great elements (mahābhūta)",
+    "pt": "quatro grandes elementos"
+  },
+  "老死": {
+    "en": "old age and death (jarāmaraṇa)",
+    "pt": "velhice e morte (jarāmaraṇa)"
+  },
+  "生死": {
+    "en": "birth and death (saṃsāra)",
+    "pt": "nascimento e morte (saṃsāra)"
+  },
+  "有為": {
+    "en": "conditioned (saṃskṛta)",
+    "pt": "condicionado (saṃskṛta)"
+  },
+  "無為": {
+    "en": "unconditioned (asaṃskṛta)",
+    "pt": "incondicionado (asaṃskṛta)"
+  },
+  "身見": {
+    "en": "self-view (satkāya-dṛṣṭi)",
+    "pt": "visão do eu (satkāya-dṛṣṭi)"
+  },
+  "邪見": {
+    "en": "wrong view (mithyā-dṛṣṭi)",
+    "pt": "visão errônea (mithyā-dṛṣṭi)"
+  },
+  "正思": {
+    "en": "right intention (samyak-saṃkalpa)",
+    "pt": "intenção correta"
+  },
+  "沙門": {
+    "en": "śramaṇa, ascetic, renunciant",
+    "pt": "śramaṇa, asceta, renunciante"
+  },
+  "波羅": {
+    "en": "pāramitā (perfection, prefix)",
+    "pt": "pāramitā (perfeição, prefixo)"
+  },
+  "三寶": {
+    "en": "Three Jewels (triratna)",
+    "pt": "Três Joias (triratna)"
+  },
+  "六度": {
+    "en": "six perfections (ṣaṭ-pāramitā)",
+    "pt": "seis perfeições (ṣaṭ-pāramitā)"
+  },
+  "業報": {
+    "en": "karmic retribution (karma-vipāka)",
+    "pt": "retribuição cármica (karma-vipāka)"
+  },
+  "善惡": {
+    "en": "good and evil (kuśala-akuśala)",
+    "pt": "bem e mal (kuśala-akuśala)"
+  },
+  "苦諦": {
+    "en": "truth of suffering (duḥkha-satya)",
+    "pt": "verdade do sofrimento (duḥkha-satya)"
+  },
+  "集諦": {
+    "en": "truth of arising (samudaya-satya)",
+    "pt": "verdade da originação (samudaya-satya)"
+  },
+  "滅諦": {
+    "en": "truth of cessation (nirodha-satya)",
+    "pt": "verdade da cessação (nirodha-satya)"
+  },
+  "道諦": {
+    "en": "truth of the path (mārga-satya)",
+    "pt": "verdade do caminho (mārga-satya)"
+  },
+  "正精": {
+    "en": "right effort (samyag-vyāyāma)",
+    "pt": "esforço correto (samyag-vyāyāma)"
+  },
+  "無量": {
+    "en": "immeasurable (apramāṇa)",
+    "pt": "incomensurável (apramāṇa)"
+  },
+  "涅洹": {
+    "en": "nirvāṇa (variant)",
+    "pt": "nirvāṇa (variante)"
+  },
+  "須陀": {
+    "en": "srota- (stream, as in stream-enterer)",
+    "pt": "srota- (corrente, como em entrador da corrente)"
+  },
+  "阿那": {
+    "en": "anāgāmin (non-returner, prefix)",
+    "pt": "anāgāmin (não-retornante, prefixo)"
+  },
+  "十力": {
+    "en": "ten powers of a Buddha (daśa-bala)",
+    "pt": "dez poderes de um Buda (daśa-bala)"
+  },
+  "身口": {
+    "en": "body and speech (kāya-vāc)",
+    "pt": "corpo e fala (kāya-vāc)"
+  },
+  "色法": {
+    "en": "material dharmas (rūpa-dharma)",
+    "pt": "dharmas materiais (rūpa-dharma)"
+  },
+  "心法": {
+    "en": "mental dharmas (citta-dharma)",
+    "pt": "dharmas mentais (citta-dharma)"
+  },
+  "無漏": {
+    "en": "without outflows (anāsrava)",
+    "pt": "sem contaminações (anāsrava)"
+  },
+  "有漏": {
+    "en": "with outflows (sāsrava)",
+    "pt": "com contaminações (sāsrava)"
+  },
+  "欲界": {
+    "en": "desire realm (kāma-dhātu)",
+    "pt": "reino do desejo (kāma-dhātu)"
+  },
+  "色界": {
+    "en": "form realm (rūpa-dhātu)",
+    "pt": "reino da forma (rūpa-dhātu)"
+  },
+  "天人": {
+    "en": "devas and humans",
+    "pt": "devas e humanos"
+  },
+  "地獄": {
+    "en": "hell, naraka",
+    "pt": "inferno, naraka"
+  },
+  "餓鬼": {
+    "en": "hungry ghost, preta",
+    "pt": "fantasma faminto, preta"
+  },
+  "畜生": {
+    "en": "animal realm, tiryak",
+    "pt": "reino animal, tiryak"
+  },
+  "阿毘": {
+    "en": "Abhi- (as in Abhidharma)",
+    "pt": "Abhi- (como em Abhidharma)"
+  },
+  "菩提": {
+    "en": "bodhi, awakening, enlightenment",
+    "pt": "bodhi, despertar, iluminação"
+  },
+  "禪定": {
+    "en": "dhyāna, meditation absorption",
+    "pt": "dhyāna, absorção meditativa"
+  },
+  "布施": {
+    "en": "dāna, generosity, giving",
+    "pt": "dāna, generosidade, doação"
+  },
+  "忍辱": {
+    "en": "kṣānti, forbearance, patience",
+    "pt": "kṣānti, paciência, tolerância"
+  },
+  "智慧": {
+    "en": "prajñā, wisdom",
+    "pt": "prajñā, sabedoria"
+  },
+  "貪瞋": {
+    "en": "greed and hatred (rāga-dveṣa)",
+    "pt": "cobiça e ódio (rāga-dveṣa)"
+  },
+  "貪欲": {
+    "en": "greed, sensual desire (kāma-rāga)",
+    "pt": "cobiça, desejo sensual (kāma-rāga)"
+  },
+  "瞋恚": {
+    "en": "anger, hatred (pratigha)",
+    "pt": "raiva, ódio (pratigha)"
+  },
+  "疑惑": {
+    "en": "doubt, uncertainty (vicikitsā)",
+    "pt": "dúvida, incerteza (vicikitsā)"
+  },
+  "嫉妬": {
+    "en": "jealousy, envy (īrṣyā)",
+    "pt": "ciúme, inveja (īrṣyā)"
+  },
+  "懈怠": {
+    "en": "laziness, indolence (kausīdya)",
+    "pt": "preguiça, indolência (kausīdya)"
+  }
+}
