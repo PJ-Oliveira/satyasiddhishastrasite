@@ -8,7 +8,7 @@ import ChapterIndex from '../ui/ChapterIndex';
 import AnkiReview from '../features/AnkiReview';
 
 async function loadCorpus(): Promise<AppState['segments']> {
-  const resp = await fetch('/data/corpus.json');
+  const resp = await fetch('./data/corpus.json');
   if (!resp.ok) throw new Error(`HTTP ${resp.status}: ${resp.statusText}`);
   const raw = (await resp.json()) as unknown;
   if (typeof raw === 'object' && raw !== null && 'segments' in raw && Array.isArray((raw as any).segments)) {
@@ -18,19 +18,19 @@ async function loadCorpus(): Promise<AppState['segments']> {
 }
 
 async function loadHanziDict(): Promise<HanziDict> {
-  const resp = await fetch('/data/hanzi_dict.json');
+  const resp = await fetch('./data/hanzi_dict.json');
   if (!resp.ok) return {};
   return (await resp.json()) as HanziDict;
 }
 
 async function loadCompounds(): Promise<CompoundDict> {
-  const resp = await fetch('/data/compounds.json');
+  const resp = await fetch('./data/compounds.json');
   if (!resp.ok) return {};
   return (await resp.json()) as CompoundDict;
 }
 
 async function loadAlignments(): Promise<AlignmentDict> {
-  const resp = await fetch('/data/alignments.json');
+  const resp = await fetch('./data/alignments.json');
   if (!resp.ok) return {};
   return (await resp.json()) as AlignmentDict;
 }
