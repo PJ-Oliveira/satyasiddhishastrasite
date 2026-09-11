@@ -38,7 +38,7 @@ export default function HanziTooltip({
           top: Math.max(position.y - 10, 10),
           transform: 'translate(-50%, -100%)',
         }}
-        onClick={(e) => e.stopPropagation()}
+        onClick={(e: any) => e.stopPropagation()}
       >
         <button
           className="absolute top-1 right-2 text-brown-600 hover:text-brown-900 text-lg"

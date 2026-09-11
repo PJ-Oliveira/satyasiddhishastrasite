@@ -9,7 +9,7 @@ type Props = {
   segments: readonly TextSegment[];
 };
 
-export default function SettingsModal({ dispatch, close, segments }: Props) {
+export default function SettingsModal({ close, segments }: Props) {
   const [exporting, setExporting] = useState<string | null>(null);
 
   const handleExport = async (format: 'pdf' | 'epub', language: 'en' | 'pt') => {

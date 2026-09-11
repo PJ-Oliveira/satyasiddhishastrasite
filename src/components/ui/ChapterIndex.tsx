@@ -47,7 +47,7 @@ export default function ChapterIndex({ segments, onSelect, isOpen, onToggle }: P
                 placeholder="Search chapters..."
                 className="w-full px-3 py-2 rounded border border-cream-300 bg-cream-100 text-brown-800 text-sm placeholder-brown-600 focus:outline-none focus:ring-2 focus:ring-brown-600"
                 value={search}
-                onChange={(e) => setSearch(e.target.value)}
+                onChange={(e: any) => setSearch(e.target.value)}
                 autoFocus
               />
             </div>

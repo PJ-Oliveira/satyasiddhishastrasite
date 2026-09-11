@@ -1,5 +1,5 @@
 import React, { useReducer, useEffect, useState, useCallback, useMemo } from 'react';
-import { AppState, Action, HanziDict, CompoundDict, AlignmentDict, HighlightTerms } from '../../types';
+import { AppState, HanziDict, CompoundDict, AlignmentDict } from '../../types';
 import { reducer, initialState } from '../../store/reducer';
 import Reader from './Reader';
 import SettingsModal from '../features/SettingsModal';
@@ -85,7 +85,7 @@ export default function App() {
   }, []);
 
   const goToChapter = useCallback((id: string) => {
-    const idx = state.segments.findIndex((s) => s.id === id);
+    const idx = state.segments.findIndex((s: any) => s.id === id);
     if (idx >= 0) {
       dispatch({ type: 'GO_TO_CHAPTER', payload: idx });
       window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -127,7 +127,7 @@ export default function App() {
 
     // Check compound alignments that include this character
     const zhText = seg.content.zh;
-    for (const [compound, align] of Object.entries(state.alignmentDict)) {
+    for (const [compound, align] of Object.entries(state.alignmentDict) as [string, { en: string[], pt: string[] }][]) {
       if (compound.length < 2) continue;
       if (!compound.includes(char)) continue;
       // Check if compound actually appears in the current chapter's Chinese text

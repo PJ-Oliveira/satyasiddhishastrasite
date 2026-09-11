@@ -1,6 +1,6 @@
 import { describe, it, expect } from 'vitest';
 import { reducer, initialState } from '../store/reducer';
-import type { AppState, Action, HanziDict, CompoundDict, AlignmentDict } from '../types';
+import type { AppState, HanziDict, CompoundDict, AlignmentDict, LanguageMode } from '../types';
 
 describe('reducer', () => {
   describe('initialState', () => {

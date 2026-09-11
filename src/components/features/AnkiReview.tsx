@@ -68,10 +68,9 @@ export default function AnkiReview({ dict, charsByFreq, languageMode, onClose }:
 
   // Update stats
   useEffect(() => {
-    const now = Date.now();
     const total = charsByFreq.length;
     const reviewed = Object.keys(srs).length;
-    const mastered = Object.values(srs).filter((c) => c.interval >= 1440).length; // 1+ day
+    const mastered = Object.values(srs).filter((c: any) => c.interval >= 1440).length; // 1+ day
     setStats({ reviewed, total, mastered });
   }, [srs, charsByFreq]);
 

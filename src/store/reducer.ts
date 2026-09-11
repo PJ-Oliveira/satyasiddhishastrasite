@@ -56,7 +56,6 @@ export function reducer(state: AppState, action: Action): AppState {
       return state;
     /* v8 ignore next 3 */
     default:
-      const _exhaustiveCheck: never = action;
       return state;
   }
 }

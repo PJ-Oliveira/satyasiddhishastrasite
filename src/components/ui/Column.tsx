@@ -100,7 +100,7 @@ export default memo(function Column({
               <span
                 key={i}
                 className="cursor-pointer hover:bg-cream-300 hover:rounded transition-colors"
-                onClick={(e) => handleCharClick(char, e)}
+                onClick={(e: any) => handleCharClick(char, e)}
               >
                 {char}
               </span>

@@ -126,7 +126,7 @@ export async function exportPdf(
     
     tocEntries.push({
       label: splitLabel[0], // link the first line
-      tocPage: doc.internal.getNumberOfPages(),
+      tocPage: (doc.internal as any).getNumberOfPages(),
       x: margin,
       y: y,
       targetPage: 0
@@ -143,7 +143,7 @@ export async function exportPdf(
     if (!content || content.includes('nao disponivel')) continue;
 
     doc.addPage();
-    const targetPage = doc.internal.getNumberOfPages();
+    const targetPage = (doc.internal as any).getNumberOfPages();
     
     if (validSegIndex < tocEntries.length) {
       tocEntries[validSegIndex].targetPage = targetPage;
@@ -202,7 +202,7 @@ export async function exportPdf(
   }
 
   // Add footers to all pages
-  const totalPages = doc.internal.getNumberOfPages();
+  const totalPages = (doc.internal as any).getNumberOfPages();
   for (let i = 1; i <= totalPages; i++) {
     doc.setPage(i);
     doc.setFontSize(10);
