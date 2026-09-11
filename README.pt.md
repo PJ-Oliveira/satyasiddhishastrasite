@@ -103,6 +103,9 @@ Este projeto está configurado com o GitHub Actions. Qualquer `push` ou mesclage
 
 Este trabalho só foi possível graças às aulas inspiradoras e aos anos de estudo aprofundado com meu Professor de *Abhidharma* e *Vipassana* (discernimento) acerca do *Satyasiddhiśāstra* (*Chengshilun*) de Harivarman, o **Sensei Joaquim Monteiro**. Toda a minha profunda gratidão pela paciência, sabedoria e transmissão fidedigna do Dharma.
 
+As traduções para o inglês e o português serão continuamente revistas, corrigidas e sempre aprimoradas ao máximo. Este projeto é de código aberto (*open source*) para que o *Abhidharma* de Harivarman seja amplamente conhecido e estudado, a fim de que o discernimento possa ser alcançado por todos.
+
+
 
 ## 📜 Licença
 *Tratado da Realização da Verdade* (Satyasiddhiśāstra).

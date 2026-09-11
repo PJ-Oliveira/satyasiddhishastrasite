@@ -103,6 +103,9 @@ This project is configured with GitHub Actions. Any push or pull request merge t
 
 This work was only made possible through the inspiring lectures and years of profound study with my Teacher of *Abhidharma* and *Vipassana* (discernment) concerning Harivarman's *Satyasiddhiśāstra* (*Chengshilun*), **Sensei Joaquim Monteiro**. My deepest gratitude for his patience, wisdom, and the faithful transmission of the Dharma.
 
+The English and Portuguese translations will be continuously reviewed, corrected, and improved to the highest possible standard. This project is open source so that Harivarman's *Abhidharma* may be widely known and studied, allowing true discernment to be attained by all.
+
+
 
 ## 📜 License
 *Treatise on the Realization of Truth* (Satyasiddhiśāstra).
